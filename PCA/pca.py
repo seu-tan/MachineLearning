@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 25 19:42:23 2014
 
-@author: wepon
-
-code of PCA Algrithom
-"""
 import numpy as np
 
 #根据要求的方差百分比，求出所需要的特征值的个数n

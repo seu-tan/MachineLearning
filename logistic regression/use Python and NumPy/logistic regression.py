@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Dec 09 21:54:00 2014
-
-@author: wepon
 
 程序说明：
 loadData函数
